@@ -13,6 +13,27 @@
 		A65D5DB32CC5617300BE8B1A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A65D5DB22CC5617300BE8B1A /* Preview Assets.xcassets */; };
 		A65D5DB52CC5617300BE8B1A /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DB42CC5617300BE8B1A /* Persistence.swift */; };
 		A65D5DB82CC5617300BE8B1A /* VanishMyImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DB62CC5617300BE8B1A /* VanishMyImage.xcdatamodeld */; };
+		A65D5DC02CC561AE00BE8B1A /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DBF2CC561AE00BE8B1A /* SnapKit */; settings = {ATTRIBUTES = (Required, ); }; };
+		A65D5DC52CC564CC00BE8B1A /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DC42CC564CC00BE8B1A /* Lottie */; };
+		A65D5DC92CC5654B00BE8B1A /* LottieLoadingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DC82CC5654B00BE8B1A /* LottieLoadingAnimations.swift */; };
+		A65D5DD12CC5691200BE8B1A /* DotLottie in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DD02CC5691200BE8B1A /* DotLottie */; };
+		A65D5DD32CC56B3300BE8B1A /* Animation - 1729440908376.lottie in Resources */ = {isa = PBXBuildFile; fileRef = A65D5DD22CC56B3300BE8B1A /* Animation - 1729440908376.lottie */; };
+		A65D5DD52CC56D6500BE8B1A /* truckLoading.lottie in Resources */ = {isa = PBXBuildFile; fileRef = A65D5DD42CC56D6500BE8B1A /* truckLoading.lottie */; };
+		A65D5DE02CC58BDB00BE8B1A /* CargoMainModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DDF2CC58BDB00BE8B1A /* CargoMainModel.swift */; };
+		A65D5DE82CC8248500BE8B1A /* CameraOpen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DE72CC8248500BE8B1A /* CameraOpen.swift */; };
+		A65D5DEB2CC828E600BE8B1A /* MobileNetV2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DEA2CC828E600BE8B1A /* MobileNetV2.mlmodel */; };
+		A65D5DED2CC8296A00BE8B1A /* MLModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DEC2CC8296A00BE8B1A /* MLModel.swift */; };
+		A65D5DF02CC82BF500BE8B1A /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DEF2CC82BF500BE8B1A /* SQLite */; };
+		A65D5DF32CC82E0C00BE8B1A /* ObjectNameDataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DF22CC82E0C00BE8B1A /* ObjectNameDataBase.swift */; };
+		A65D5DF62CC8300300BE8B1A /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DF52CC8300300BE8B1A /* Alamofire */; };
+		A65D5DFC2CC83AB700BE8B1A /* SkeletonUI in Frameworks */ = {isa = PBXBuildFile; productRef = A65D5DFB2CC83AB700BE8B1A /* SkeletonUI */; };
+		A65D5DFF2CC83AD700BE8B1A /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5DFE2CC83AD700BE8B1A /* MainViewController.swift */; };
+		A65D5E012CC849C300BE8B1A /* loaderLikeSiri.lottie in Resources */ = {isa = PBXBuildFile; fileRef = A65D5E002CC83B4900BE8B1A /* loaderLikeSiri.lottie */; };
+		A65D5E032CC84B5400BE8B1A /* loader.lottie in Resources */ = {isa = PBXBuildFile; fileRef = A65D5E022CC84B5400BE8B1A /* loader.lottie */; };
+		A65D5E052CC84BED00BE8B1A /* Animation - 1729626544136.lottie in Resources */ = {isa = PBXBuildFile; fileRef = A65D5E042CC84BED00BE8B1A /* Animation - 1729626544136.lottie */; };
+		A65D5E092CC9617800BE8B1A /* NavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5E082CC9617800BE8B1A /* NavigationViewController.swift */; };
+		A65D5E0C2CC9622600BE8B1A /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A65D5E0B2CC9622600BE8B1A /* CustomTabBar.swift */; };
+		A65D5E0E2CC9848C00BE8B1A /* Resnet50.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A65D5E0D2CC9848C00BE8B1A /* Resnet50.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +44,22 @@
 		A65D5DB22CC5617300BE8B1A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A65D5DB42CC5617300BE8B1A /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A65D5DB72CC5617300BE8B1A /* VanishMyImage.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = VanishMyImage.xcdatamodel; sourceTree = "<group>"; };
+		A65D5DC82CC5654B00BE8B1A /* LottieLoadingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieLoadingAnimations.swift; sourceTree = "<group>"; };
+		A65D5DD22CC56B3300BE8B1A /* Animation - 1729440908376.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Animation - 1729440908376.lottie"; sourceTree = "<group>"; };
+		A65D5DD42CC56D6500BE8B1A /* truckLoading.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = truckLoading.lottie; sourceTree = "<group>"; };
+		A65D5DDF2CC58BDB00BE8B1A /* CargoMainModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CargoMainModel.swift; sourceTree = "<group>"; };
+		A65D5DE72CC8248500BE8B1A /* CameraOpen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraOpen.swift; sourceTree = "<group>"; };
+		A65D5DEA2CC828E600BE8B1A /* MobileNetV2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNetV2.mlmodel; sourceTree = "<group>"; };
+		A65D5DEC2CC8296A00BE8B1A /* MLModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MLModel.swift; sourceTree = "<group>"; };
+		A65D5DF22CC82E0C00BE8B1A /* ObjectNameDataBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectNameDataBase.swift; sourceTree = "<group>"; };
+		A65D5DF92CC8343200BE8B1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A65D5DFE2CC83AD700BE8B1A /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		A65D5E002CC83B4900BE8B1A /* loaderLikeSiri.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = loaderLikeSiri.lottie; sourceTree = "<group>"; };
+		A65D5E022CC84B5400BE8B1A /* loader.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = loader.lottie; sourceTree = "<group>"; };
+		A65D5E042CC84BED00BE8B1A /* Animation - 1729626544136.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Animation - 1729626544136.lottie"; sourceTree = "<group>"; };
+		A65D5E082CC9617800BE8B1A /* NavigationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewController.swift; sourceTree = "<group>"; };
+		A65D5E0B2CC9622600BE8B1A /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		A65D5E0D2CC9848C00BE8B1A /* Resnet50.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Resnet50.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,6 +67,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A65D5DF62CC8300300BE8B1A /* Alamofire in Frameworks */,
+				A65D5DFC2CC83AB700BE8B1A /* SkeletonUI in Frameworks */,
+				A65D5DF02CC82BF500BE8B1A /* SQLite in Frameworks */,
+				A65D5DC02CC561AE00BE8B1A /* SnapKit in Frameworks */,
+				A65D5DD12CC5691200BE8B1A /* DotLottie in Frameworks */,
+				A65D5DC52CC564CC00BE8B1A /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,6 +98,11 @@
 		A65D5DAA2CC5617200BE8B1A /* VanishMyImage */ = {
 			isa = PBXGroup;
 			children = (
+				A65D5DF92CC8343200BE8B1A /* Info.plist */,
+				A65D5DE62CC8247600BE8B1A /* Logic */,
+				A65D5DDD2CC58BAF00BE8B1A /* Models */,
+				A65D5DD62CC58AE800BE8B1A /* View's */,
+				A65D5DC62CC5651A00BE8B1A /* SupportedContent */,
 				A65D5DAB2CC5617200BE8B1A /* VanishMyImageApp.swift */,
 				A65D5DAD2CC5617200BE8B1A /* ContentView.swift */,
 				A65D5DAF2CC5617300BE8B1A /* Assets.xcassets */,
@@ -73,6 +121,105 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		A65D5DC62CC5651A00BE8B1A /* SupportedContent */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DC72CC5652A00BE8B1A /* LottieLoadingAnimations */,
+			);
+			path = SupportedContent;
+			sourceTree = "<group>";
+		};
+		A65D5DC72CC5652A00BE8B1A /* LottieLoadingAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5E042CC84BED00BE8B1A /* Animation - 1729626544136.lottie */,
+				A65D5E022CC84B5400BE8B1A /* loader.lottie */,
+				A65D5E002CC83B4900BE8B1A /* loaderLikeSiri.lottie */,
+				A65D5DD42CC56D6500BE8B1A /* truckLoading.lottie */,
+				A65D5DD22CC56B3300BE8B1A /* Animation - 1729440908376.lottie */,
+				A65D5DC82CC5654B00BE8B1A /* LottieLoadingAnimations.swift */,
+			);
+			path = LottieLoadingAnimations;
+			sourceTree = "<group>";
+		};
+		A65D5DD62CC58AE800BE8B1A /* View's */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5E0A2CC9621500BE8B1A /* TabBar */,
+				A65D5DFD2CC83AC400BE8B1A /* MainViewController */,
+				A65D5DD72CC58AF900BE8B1A /* NavigationView */,
+			);
+			path = "View's";
+			sourceTree = "<group>";
+		};
+		A65D5DD72CC58AF900BE8B1A /* NavigationView */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5E082CC9617800BE8B1A /* NavigationViewController.swift */,
+			);
+			path = NavigationView;
+			sourceTree = "<group>";
+		};
+		A65D5DDD2CC58BAF00BE8B1A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DDE2CC58BBC00BE8B1A /* CargoMainModels */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A65D5DDE2CC58BBC00BE8B1A /* CargoMainModels */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DDF2CC58BDB00BE8B1A /* CargoMainModel.swift */,
+			);
+			path = CargoMainModels;
+			sourceTree = "<group>";
+		};
+		A65D5DE62CC8247600BE8B1A /* Logic */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DF12CC82DF300BE8B1A /* SQLDataBase */,
+				A65D5DE92CC828CA00BE8B1A /* MLObjects */,
+				A65D5DE72CC8248500BE8B1A /* CameraOpen.swift */,
+			);
+			path = Logic;
+			sourceTree = "<group>";
+		};
+		A65D5DE92CC828CA00BE8B1A /* MLObjects */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5E0D2CC9848C00BE8B1A /* Resnet50.mlmodel */,
+				A65D5DEA2CC828E600BE8B1A /* MobileNetV2.mlmodel */,
+				A65D5DEC2CC8296A00BE8B1A /* MLModel.swift */,
+			);
+			path = MLObjects;
+			sourceTree = "<group>";
+		};
+		A65D5DF12CC82DF300BE8B1A /* SQLDataBase */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DF22CC82E0C00BE8B1A /* ObjectNameDataBase.swift */,
+			);
+			path = SQLDataBase;
+			sourceTree = "<group>";
+		};
+		A65D5DFD2CC83AC400BE8B1A /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5DFE2CC83AD700BE8B1A /* MainViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		A65D5E0A2CC9621500BE8B1A /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				A65D5E0B2CC9622600BE8B1A /* CustomTabBar.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -89,6 +236,14 @@
 			dependencies = (
 			);
 			name = VanishMyImage;
+			packageProductDependencies = (
+				A65D5DBF2CC561AE00BE8B1A /* SnapKit */,
+				A65D5DC42CC564CC00BE8B1A /* Lottie */,
+				A65D5DD02CC5691200BE8B1A /* DotLottie */,
+				A65D5DEF2CC82BF500BE8B1A /* SQLite */,
+				A65D5DF52CC8300300BE8B1A /* Alamofire */,
+				A65D5DFB2CC83AB700BE8B1A /* SkeletonUI */,
+			);
 			productName = VanishMyImage;
 			productReference = A65D5DA82CC5617200BE8B1A /* VanishMyImage.app */;
 			productType = "com.apple.product-type.application";
@@ -117,6 +272,14 @@
 				Base,
 			);
 			mainGroup = A65D5D9F2CC5617200BE8B1A;
+			packageReferences = (
+				A65D5DBE2CC561AE00BE8B1A /* XCRemoteSwiftPackageReference "SnapKit" */,
+				A65D5DC32CC564CC00BE8B1A /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				A65D5DCF2CC5691200BE8B1A /* XCRemoteSwiftPackageReference "dotlottie-ios" */,
+				A65D5DEE2CC82BF500BE8B1A /* XCRemoteSwiftPackageReference "SQLite" */,
+				A65D5DF42CC8300300BE8B1A /* XCRemoteSwiftPackageReference "Alamofire" */,
+				A65D5DFA2CC83AB700BE8B1A /* XCRemoteSwiftPackageReference "SkeletonUI" */,
+			);
 			productRefGroup = A65D5DA92CC5617200BE8B1A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -131,8 +294,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A65D5E032CC84B5400BE8B1A /* loader.lottie in Resources */,
+				A65D5DD32CC56B3300BE8B1A /* Animation - 1729440908376.lottie in Resources */,
+				A65D5DD52CC56D6500BE8B1A /* truckLoading.lottie in Resources */,
 				A65D5DB32CC5617300BE8B1A /* Preview Assets.xcassets in Resources */,
+				A65D5E012CC849C300BE8B1A /* loaderLikeSiri.lottie in Resources */,
 				A65D5DB02CC5617300BE8B1A /* Assets.xcassets in Resources */,
+				A65D5E052CC84BED00BE8B1A /* Animation - 1729626544136.lottie in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,9 +311,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A65D5E0E2CC9848C00BE8B1A /* Resnet50.mlmodel in Sources */,
 				A65D5DB82CC5617300BE8B1A /* VanishMyImage.xcdatamodeld in Sources */,
+				A65D5DFF2CC83AD700BE8B1A /* MainViewController.swift in Sources */,
+				A65D5DE02CC58BDB00BE8B1A /* CargoMainModel.swift in Sources */,
+				A65D5E0C2CC9622600BE8B1A /* CustomTabBar.swift in Sources */,
+				A65D5DC92CC5654B00BE8B1A /* LottieLoadingAnimations.swift in Sources */,
 				A65D5DB52CC5617300BE8B1A /* Persistence.swift in Sources */,
+				A65D5DF32CC82E0C00BE8B1A /* ObjectNameDataBase.swift in Sources */,
+				A65D5DED2CC8296A00BE8B1A /* MLModel.swift in Sources */,
+				A65D5DE82CC8248500BE8B1A /* CameraOpen.swift in Sources */,
 				A65D5DAE2CC5617200BE8B1A /* ContentView.swift in Sources */,
+				A65D5DEB2CC828E600BE8B1A /* MobileNetV2.mlmodel in Sources */,
+				A65D5E092CC9617800BE8B1A /* NavigationViewController.swift in Sources */,
 				A65D5DAC2CC5617200BE8B1A /* VanishMyImageApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,11 +461,14 @@
 				DEVELOPMENT_TEAM = 2249AJ7FW9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VanishMyImage/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take pictures.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -312,11 +493,14 @@
 				DEVELOPMENT_TEAM = 2249AJ7FW9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VanishMyImage/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take pictures.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -352,6 +536,90 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A65D5DBE2CC561AE00BE8B1A /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+		A65D5DC32CC564CC00BE8B1A /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.5.0;
+			};
+		};
+		A65D5DCF2CC5691200BE8B1A /* XCRemoteSwiftPackageReference "dotlottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/LottieFiles/dotlottie-ios";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		A65D5DEE2CC82BF500BE8B1A /* XCRemoteSwiftPackageReference "SQLite" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/stephencelis/SQLite.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.15.3;
+			};
+		};
+		A65D5DF42CC8300300BE8B1A /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.10.1;
+			};
+		};
+		A65D5DFA2CC83AB700BE8B1A /* XCRemoteSwiftPackageReference "SkeletonUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/CSolanaM/SkeletonUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A65D5DBF2CC561AE00BE8B1A /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DBE2CC561AE00BE8B1A /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+		A65D5DC42CC564CC00BE8B1A /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DC32CC564CC00BE8B1A /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+		A65D5DD02CC5691200BE8B1A /* DotLottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DCF2CC5691200BE8B1A /* XCRemoteSwiftPackageReference "dotlottie-ios" */;
+			productName = DotLottie;
+		};
+		A65D5DEF2CC82BF500BE8B1A /* SQLite */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DEE2CC82BF500BE8B1A /* XCRemoteSwiftPackageReference "SQLite" */;
+			productName = SQLite;
+		};
+		A65D5DF52CC8300300BE8B1A /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DF42CC8300300BE8B1A /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		A65D5DFB2CC83AB700BE8B1A /* SkeletonUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A65D5DFA2CC83AB700BE8B1A /* XCRemoteSwiftPackageReference "SkeletonUI" */;
+			productName = SkeletonUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		A65D5DB62CC5617300BE8B1A /* VanishMyImage.xcdatamodeld */ = {
